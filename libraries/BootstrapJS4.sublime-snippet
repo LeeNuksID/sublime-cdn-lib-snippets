@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[<script src="//maxcdn.bootstrapcdn.com/bootstrap/${1:4.0.0-alpha.6}/js/bootstrap.min.js"></script>$0]]></content>
-	<tabTrigger>cdn</tabTrigger>
+	<content><![CDATA[<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>$0]]></content>
+	<tabTrigger>cdnb4js</tabTrigger>
 	<description>Bootstrap 4 JS</description>
 	<scope>source.php,text.html,source.jade</scope>
 </snippet>
